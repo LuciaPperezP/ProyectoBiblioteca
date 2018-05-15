@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-8.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/aquafx-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/aquafx-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/aquafx-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
